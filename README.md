@@ -1,5 +1,10 @@
+### <samp>&gt; Hi there, I'm <a href="https://www.slowey.works/" target="_blank">SloWey</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
+
+
 # > Hello World, I'm Yash Thakur 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+
+
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your-profile)](https://www.linkedin.com/in/yashthakur666)
 [![Website](https://img.shields.io/badge/-Website-black?style=flat&logo=Google-Chrome&logoColor=white&link=https://yourwebsite.com)](https://yourwebsite.com)
