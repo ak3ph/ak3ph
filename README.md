@@ -1,8 +1,8 @@
 # <samp>&gt; Hello World, I'm <a href="https://www.linkedin.com/in/yashthakur666" target="_blank">Yash</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your-profile)](https://www.linkedin.com/in/yashthakur666)
-[![Website](https://img.shields.io/badge/-Website-black?style=flat&logo=Google-Chrome&logoColor=white&link=https://yourwebsite.com)](https://yourwebsite.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://instagram.com/yourusername)](https://instagram.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ak3ph)](https://www.linkedin.com/in/ak3ph)
+[![Website](https://img.shields.io/badge/-Website-black?style=flat&logo=Google-Chrome&logoColor=white&link=https://ak3ph.dev)](https://ak3ph.dev)
+# [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://instagram.com/yourusername)](https://instagram.com/yourusername)
 
 Glad to see you here!
 
@@ -13,9 +13,9 @@ DevOps Engineer on a quest to make deployment as smooth as my coffee in the morn
 - 🔭 I’m currently working on something cool;
 - 🌱 I’m currently learning DevOps;
 - 💬 Ask me about anything, I am happy to help;
-- 📝 I regularly write articles on [Linkedin](https://www.linkedin.com/in/yashthakur666/) & [Medium](https://medium.com/@yashcodedev);
-- 📫 How to reach me: [yashcodedev@gmail.com](mailto:yashcodedev@gmail.com);
-- 📄 [My CV](https://linktoresume.com).
+- 📝 I regularly write articles on [Linkedin](https://www.linkedin.com/in/ak3ph/) & [Medium](https://medium.com/@ak3ph);
+- 📫 How to reach me: [hello@ak3ph.dev](mailto:hello@ak3ph.dev);
+- 📄 [My CV](https://ak3ph.dev).
 
 ## 🛠️ Technologies & Tools
 
