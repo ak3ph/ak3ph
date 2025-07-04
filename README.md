@@ -2,7 +2,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ak3ph)](https://www.linkedin.com/in/ak3ph)
 [![Website](https://img.shields.io/badge/-Website-black?style=flat&logo=Google-Chrome&logoColor=white&link=https://ak3ph.dev)](https://ak3ph.dev)
-# [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://instagram.com/yourusername)](https://instagram.com/yourusername)
 
 Glad to see you here!
 
