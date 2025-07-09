@@ -1,31 +1,30 @@
-# <samp>&gt; Hello World, I'm <a href="https://www.linkedin.com/in/ak3ph" target="_blank">Yash Thakur</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
+<h2 align="center">Hey 👋, I'm Yash — aka <strong>ak3ph</strong></h2>
+<p align="center">
+  DevOps & Cloud Engineer • Automating Infra • Learning AI/ML<br>
+  Building in Public @ <a href="https://ak3ph.dev">ak3ph.dev</a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ak3ph)](https://www.linkedin.com/in/ak3ph)
-[![Website](https://img.shields.io/badge/-Website-black?style=flat&logo=Google-Chrome&logoColor=white&link=https://ak3ph.dev)](https://ak3ph.dev)
+---
 
-Glad to see you here!
+🧠 **About Me**
 
-DevOps Engineer on a quest to make deployment as smooth as my coffee in the morning. I specialize in crafting resilient cloud architectures, automating everything that can be automated, and occasionally debugging production issues at 2 AM (because who needs sleep, right?). My code is my canvas, and Infrastructure as Code is my art form. Off the clock, I'm either conquering virtual worlds in FPS games or attempting to conquer real mountains on hiking trails. Join me in the exciting world of DevOps, where every day is an adventure in efficiency!
+- 🛠️ I automate infrastructure using **Terraform**, **Ansible**, and **Kubernetes**
+- ☁️ Experienced with **AWS**, **Docker**, and scalable CI/CD pipelines
+- 🤖 Learning **MLOps**, **LLMs**, and AI system deployment
+- 📝 Blogging at [ak3ph.dev](https://ak3ph.dev) | Writing on [Medium](https://medium.com/@ak3ph)
+- 💬 Ask me about: Cloud infra, automation, GitHub Actions, blogging, or open-source
 
-## Talking about Personal Stuff:
+---
 
-- 🔭 I’m currently working on something cool;
-- 🌱 I’m currently learning DevOps;
-- 💬 Ask me about anything, I am happy to help;
-- 📝 I regularly write articles on [Linkedin](https://www.linkedin.com/in/ak3ph/) & [Medium](https://medium.com/@ak3ph);
-- 📫 How to reach me: [hello@ak3ph.dev](mailto:hello@ak3ph.dev);
-- 📄 [My CV](https://ak3ph.dev).
+📌 **Pinned Projects**
+<!-- Add your real repo links later -->
+- 🚀 [infra-starter-kit](https://github.com/ak3ph/infra-starter-kit) — A Terraform-based IaC template with CI/CD
+- 📦 [mlops-demo-stack](https://github.com/ak3ph/mlops-demo-stack) — ML model deploy w/ Docker + K8s
 
-## 🛠️ Technologies & Tools
+---
 
-- **Programming Languages**: JavaScript, Python, Bash
-- **Infrastructure as Code**: Ansible, Terraform, CloudFormation
-- **Containerization**: Docker, Kubernetes
-- **Cloud Platforms**: AWS
-- **Monitoring & Logging**: Prometheus, Grafana
-- **CI/CD**: Jenkins, GitHub Actions, GitLab
+📊 **GitHub Stats**
 
-## 📊 This Week I Spent My Time On:
-
-```markdown
-Getting better in my DevOps Skills
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ak3ph&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
