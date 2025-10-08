@@ -11,20 +11,20 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 
 I'm a DevOps Engineer on a mission to automate everything — from infrastructure provisioning to CI/CD workflows and even parts of my life 😄.
 
 Currently working on production infrastructure at scale, cloud optimization, and making Kubernetes less painful for devs. On the side, I'm diving into the world of **AI/ML deployment, LLMOps, and intelligent automation**.
 
-- 🔭 Working on a self-hosted DevOps + MLOps stack
-- 🛠 I write IaC like poetry: **Terraform**, **Ansible**, **K8s**
-- 🧱 Blogging at [ak3ph.dev](https://ak3ph.dev) and [Medium](https://medium.com/@ak3ph)
-- 💡 Always learning something new — currently: **LangChain, Vector DBs, MLFlow**
+-  Working on a self-hosted DevOps + MLOps stack
+-  I write IaC like poetry: **Terraform**, **Ansible**, **K8s**
+-  Blogging at [ak3ph.dev](https://ak3ph.dev) and [Medium](https://medium.com/@ak3ph)
+-  Always learning something new — currently: **LangChain, Vector DBs, MLFlow**
 
 ---
 
-### ⚙️ Technologies & Tools
+### Technologies & Tools
 
 - **Languages**: Python, Bash, JavaScript
 - **Infra as Code**: Terraform, Ansible, CloudFormation
@@ -35,17 +35,17 @@ Currently working on production infrastructure at scale, cloud optimization, and
 
 ---
 
-### 📌 Featured Projects
+### Featured Projects
 
-- 🔧 [`infra-starter-kit`](https://github.com/ak3ph/infra-starter-kit) – Terraform + AWS + GitHub Actions base
-- 🤖 [`mlops-demo-stack`](https://github.com/ak3ph/mlops-demo-stack) – ML pipeline deploy with Docker + K8s
-- 📄 [`ak3ph.dev`](https://ak3ph.dev) – My personal website & blog (Astro)
+-  [`infra-starter-kit`](https://github.com/ak3ph/infra-starter-kit) – Terraform + AWS + GitHub Actions base
+-  [`mlops-demo-stack`](https://github.com/ak3ph/mlops-demo-stack) – ML pipeline deploy with Docker + K8s
+-  [`ak3ph.dev`](https://ak3ph.dev) – My personal website & blog (Astro)
 
 > More coming soon... follow along!
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ak3ph&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -53,14 +53,14 @@ Currently working on production infrastructure at scale, cloud optimization, and
 
 ---
 
-### 📫 Let’s Connect
+### Let’s Connect
 
 Feel free to reach out or follow my journey:
 
-- 🌐 Website: [ak3ph.dev](https://ak3ph.dev)
-- 📝 Medium: [medium.com/@ak3ph](https://medium.com/@ak3ph)
-- 💼 LinkedIn: [linkedin.com/in/ak3ph](https://www.linkedin.com/in/ak3ph)
-- 📩 Email: [hello@ak3ph.dev](mailto:hello@ak3ph.dev)
+-  Website: [ak3ph.dev](https://ak3ph.dev)
+-  Medium: [medium.com/@ak3ph](https://medium.com/@ak3ph)
+-  LinkedIn: [linkedin.com/in/ak3ph](https://www.linkedin.com/in/ak3ph)
+-  Email: [hello@ak3ph.dev](mailto:hello@ak3ph.dev)
 
 ---
 
