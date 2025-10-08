@@ -13,7 +13,7 @@
 
 ### About Me
 
-I'm a DevOps Engineer on a mission to automate everything — from infrastructure provisioning to CI/CD workflows and even parts of my life 😄.
+I'm a DevOps Engineer on a mission to automate everything — from infrastructure provisioning to CI/CD workflows and even parts of my life.
 
 Currently working on production infrastructure at scale, cloud optimization, and making Kubernetes less painful for devs. On the side, I'm diving into the world of **AI/ML deployment, LLMOps, and intelligent automation**.
 
