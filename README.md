@@ -4,10 +4,8 @@
 
 <p align="center">
   DevOps & Cloud Engineer · Automating Infra · Exploring AI/MLOps<br/>
-  <a href="https://www.linkedin.com/in/ak3ph"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a>
-  
-  <a href="https://ak3ph.dev"><img src="https://img.shields.io/badge/-Portfolio-black?style=flat&logo=Google-Chrome&logoColor=white"></a>
-  
+  <a href="https://www.linkedin.com/in/ak3ph"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a>   
+  <a href="https://ak3ph.dev"><img src="https://img.shields.io/badge/-Portfolio-black?style=flat&logo=Google-Chrome&logoColor=white"></a>   
   <a href="mailto:hello@ak3ph.dev"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white"></a>
 </p>
 
