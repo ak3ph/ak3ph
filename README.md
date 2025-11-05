@@ -29,7 +29,7 @@ Currently working on production infrastructure at scale, cloud optimization, and
 - **Languages**: Python, Bash, JavaScript
 - **Infra as Code**: Terraform, Ansible, CloudFormation
 - **Containers**: Docker, Kubernetes, Helm
-- **Cloud**: AWS, EC2, S3, Lambda
+- **Cloud**: AWS, Azure, GCP
 - **CI/CD**: GitHub Actions, GitLab CI, Jenkins
 - **Monitoring**: Prometheus, Grafana, ELK
 
@@ -39,7 +39,7 @@ Currently working on production infrastructure at scale, cloud optimization, and
 
 -  [`infra-starter-kit`](https://github.com/ak3ph/infra-starter-kit) – Terraform + AWS + GitHub Actions base
 -  [`mlops-demo-stack`](https://github.com/ak3ph/mlops-demo-stack) – ML pipeline deploy with Docker + K8s
--  [`ak3ph.dev`](https://ak3ph.dev) – My personal website & blog (Astro)
+-  [`ak3ph.dev`](https://ak3ph.dev) – My personal website & blog
 
 > More coming soon... follow along!
 
@@ -48,7 +48,7 @@ Currently working on production infrastructure at scale, cloud optimization, and
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ak3ph&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ak3ph&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
 
 ---
