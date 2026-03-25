@@ -37,8 +37,8 @@ Currently working on production infrastructure at scale, cloud optimization, and
 
 ### Featured Projects
 
--  [`infra-zero`](https://github.com/ak3ph/infra-starter-kit) – Terraform + AWS + CI/CD (Free Tier Infra)
--  [`llm-in-a-box`](https://github.com/ak3ph/mlops-demo-stack) – Local LLM + FastAPI + Docker
+-  [`infra-zero`](https://github.com/ak3ph/infra-zero) – Terraform + AWS + CI/CD (Free Tier Infra)
+-  [`llm-in-a-box`](https://github.com/ak3ph/llm-in-a-box) – Local LLM + FastAPI + Docker
 -  [`ak3ph.dev`](https://ak3ph.dev) – Personal portfolio & writing
 
 > More coming soon... follow along!
