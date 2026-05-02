@@ -58,7 +58,7 @@ Currently working on production infrastructure at scale, cloud optimization, and
 Feel free to reach out or follow my journey:
 
 -  Website: [ak3ph.dev](https://ak3ph.dev)
--  Medium: [medium.com/@ak3ph](https://write.ak3ph.dev)
+-  Medium: [write.ak3ph.dev](https://write.ak3ph.dev)
 -  LinkedIn: [linkedin.com/in/ak3ph](https://www.linkedin.com/in/ak3ph)
 -  Email: [hello@ak3ph.dev](mailto:hello@ak3ph.dev)
 
